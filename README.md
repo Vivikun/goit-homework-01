@@ -1,1 +1,1 @@
-# goit-homework-01
+# goit-homework-hw-1
